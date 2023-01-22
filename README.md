@@ -4,5 +4,5 @@ Toiminnallisuus: Ohjelmalla voi ladata tämän päivän, eilisen päivän tai jo
 
 # NASA assignment
 
-Functionality: Program will download either current date, yesterday or a spesific day inbetween 16.6.1995 -> this date astronomic picture from NASA's page and safe it in your computers home directory. It will create year folder and inside it month folder where it loads the picture (.jpg) with the NASA's assigned date as a name. (For example: ~\2023\01\2023-01-21.jpg)
+Functionality: Program will download either current date, yesterday or a spesific day inbetween 16.6.1995 -> this date astronomic picture from NASA's page and save it in your computers home directory. It will create a year folder and inside it month folder where it loads the picture (.jpg) with the NASA's assigned date as a name. (For example: ~\2023\01\2023-01-21.jpg)
 
